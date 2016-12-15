@@ -1,0 +1,9 @@
+C:\OneDrive\Documents\Projects\winform_website_server\winform_website_server\bin\Release\winform_website_server.exe.config
+C:\OneDrive\Documents\Projects\winform_website_server\winform_website_server\bin\Release\winform_website_server.exe
+C:\OneDrive\Documents\Projects\winform_website_server\winform_website_server\bin\Release\winform_website_server.pdb
+C:\OneDrive\Documents\Projects\winform_website_server\winform_website_server\obj\Release\winform_website_server.csprojResolveAssemblyReference.cache
+C:\OneDrive\Documents\Projects\winform_website_server\winform_website_server\obj\Release\winform_website_server.Properties.Resources.resources
+C:\OneDrive\Documents\Projects\winform_website_server\winform_website_server\obj\Release\winform_website_server.website_server.resources
+C:\OneDrive\Documents\Projects\winform_website_server\winform_website_server\obj\Release\winform_website_server.csproj.GenerateResource.Cache
+C:\OneDrive\Documents\Projects\winform_website_server\winform_website_server\obj\Release\winform_website_server.exe
+C:\OneDrive\Documents\Projects\winform_website_server\winform_website_server\obj\Release\winform_website_server.pdb
